@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nini/PERSISTER/mlruns/785100250429239398/models/m-a6670256a3fc4d23bcab4e7fd7043d57/artifacts
+creation_timestamp: 1773434897819
+experiment_id: '785100250429239398'
+last_updated_timestamp: 1773434900495
+model_id: m-a6670256a3fc4d23bcab4e7fd7043d57
+model_type: null
+name: model
+source_run_id: 8b842408d4ba4f309f97fa8538c5e040
+status: 2
+status_message: null

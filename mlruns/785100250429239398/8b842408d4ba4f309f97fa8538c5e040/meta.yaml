@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nini/PERSISTER/mlruns/785100250429239398/8b842408d4ba4f309f97fa8538c5e040/artifacts
+end_time: 1773434900499
+entry_point_name: ''
+experiment_id: '785100250429239398'
+lifecycle_stage: active
+run_id: 8b842408d4ba4f309f97fa8538c5e040
+run_name: rf_livraison_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773434897790
+status: 3
+tags: []
+user_id: nini
